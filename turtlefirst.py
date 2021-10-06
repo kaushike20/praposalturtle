@@ -6,7 +6,7 @@ t.speed(0)
 t.width(12)
 
 def curve():
-    for i in range(0,200):
+    for i in range(0,200,1):
         t.right(1)
         t.forward(1)
 
