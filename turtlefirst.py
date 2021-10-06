@@ -24,7 +24,7 @@ def main():
 main()
 t.penup()
 t.goto(-280,-20)
-t.pencolor('red')
+t.pencolor('blue')
 t.write("I  YOU",align='left',font=("courier",150,'bold italic'))
 
-time.sleep(11)
+time.sleep(10)
