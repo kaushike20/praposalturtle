@@ -6,7 +6,7 @@ t.speed(0)
 t.width(12)
 
 def curve():
-    for i in range(0,200,1):
+    for i in range(0,200):
         t.right(1)
         t.forward(1)
 
@@ -27,4 +27,4 @@ t.goto(-280,-20)
 t.pencolor('blue')
 t.write("I  YOU",align='left',font=("courier",150,'bold italic'))
 
-time.sleep(10)
+time.sleep(13)
