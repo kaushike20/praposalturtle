@@ -1,3 +1,4 @@
+#pip install turtle
 import turtle
 import time
 s=turtle.Screen().bgcolor("black")
