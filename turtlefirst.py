@@ -1,4 +1,4 @@
-# Pip install turtle
+# pip3 install turtle
 
 import turtle
 s = turtle.Screen().bgcolor("black")
@@ -6,12 +6,10 @@ t = turtle.Turtle()
 t.speed(0)
 t.width(12)
 
-
 def curve():
     for i in range(0, 200):
         t.right(1)
         t.forward(1)
-
 
 def main():
     t.color('red', 'red')
@@ -25,8 +23,9 @@ def main():
     t.end_fill()
 
 
-main()
-t.penup()
-t.goto(-280, -20)
-t.pencolor('blue')
-t.write("I  YOU", align='left', font=("courier", 150, 'bold italic'))
+if __name__ == "__main__":
+    main()
+    t.penup()
+    t.goto(-280, -20)
+    t.pencolor('blue')
+    t.write("I  YOU", align='left', font=("courier", 150, 'bold italic'))
