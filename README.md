@@ -3,11 +3,10 @@
 ## A GUI program in Python for showing demo using Turtle library.
 
 
- ## A repository to contribute for hactoberfest
+## A repository to contribute for hactoberfest
 <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
 Open source is changing the world – one contribution at a time.
  
-
 
 =======
 ### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
@@ -22,10 +21,3 @@ Open source is changing the world – one contribution at a time.
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirts.
 ---
-
-
- 
-
-
-
-
