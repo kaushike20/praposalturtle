@@ -1,6 +1,7 @@
 # pip3 install turtle
 
 import turtle
+#The turtle module provides turtle graphics primitives, in both object-oriented and procedure-oriented ways. 
 s = turtle.Screen().bgcolor("black")
 t = turtle.Turtle()
 t.speed(0)
