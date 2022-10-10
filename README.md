@@ -21,3 +21,4 @@ Open source is changing the world – one contribution at a time.
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirts.
 ------
+THANK YOU
