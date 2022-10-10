@@ -20,4 +20,4 @@ Open source is changing the world – one contribution at a time.
 - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 50,000 participants can earn a T-shirts.
----
+------
